@@ -1,0 +1,4 @@
+.terraform/
+dev.tfvars
+production.tfvars
+.terraform.lock.hcl
